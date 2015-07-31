@@ -1,0 +1,3 @@
+LIBRARY def_distance.pyd
+EXPORTS
+initdef_distance
