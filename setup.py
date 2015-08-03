@@ -12,5 +12,5 @@ from Cython.Build import cythonize
 
 
 setup(
-    ext_modules=cythonize('def_distance.pyx'),
+    ext_modules=cythonize('def_create_environment.pyx'),
 )
